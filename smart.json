@@ -1,0 +1,8 @@
+{
+  "name": "aloha-editor",
+  "description": "Aloha Editor for Meteor",
+  "homepage": "http://aloha-editor.org",
+  "author": "Rene Kapusta <rene.kapusta@gmail.com> (http://evo42.net)",
+  "version": "0.1.0",
+  "git": "https://github.com/evo42/meteor-aloha-editor.git"
+}
