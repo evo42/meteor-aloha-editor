@@ -3,6 +3,6 @@
   "description": "Aloha Editor for Meteor -- HTML5 contentEditable WYSIWYG editor",
   "homepage": "https://github.com/evo42/meteor-aloha-editor",
   "author": "Rene Kapusta <rene.kapusta@gmail.com> (http://evo42.net)",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "git": "https://github.com/evo42/meteor-aloha-editor.git"
 }
