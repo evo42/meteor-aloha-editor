@@ -4,5 +4,6 @@
   "homepage": "https://github.com/evo42/meteor-aloha-editor",
   "author": "Rene Kapusta <rene.kapusta@gmail.com> (http://evo42.net)",
   "version": "0.1.5",
-  "git": "https://github.com/evo42/meteor-aloha-editor.git"
+  "git": "https://github.com/evo42/meteor-aloha-editor.git",
+  "packages": {}
 }
